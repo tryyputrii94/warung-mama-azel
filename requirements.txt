@@ -1,3 +1,6 @@
+streamlit
+Pillow
+
 DAFTAR NAMA FILE FOTO PRODUK
 ============================
 Simpan foto di folder images/ dengan nama persis seperti di bawah.
