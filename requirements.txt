@@ -1,0 +1,55 @@
+DAFTAR NAMA FILE FOTO PRODUK
+============================
+Simpan foto di folder images/ dengan nama persis seperti di bawah.
+Ekstensi boleh .jpg / .jpeg / .png / .webp (contoh di bawah memakai .jpg).
+Tips: foto persegi dengan latar putih/polos hasilnya paling rapi.
+
+[Sembako & Kebutuhan Pokok]
+  beras-sumo-merah-5kg.jpg    <- Beras Sumo Merah 5kg
+  beras-lahap-5kg.jpg    <- Beras Lahap 5kg
+  minyak-goreng-rose-brand-2l.jpg    <- Minyak Goreng Rose Brand 2L
+  minyak-goreng-sunco-2l.jpg    <- Minyak Goreng Sunco 2L
+  telur-1kg.jpg    <- Telur 1kg
+  tepung-terigu-segitiga-biru-1kg.jpg    <- Tepung Terigu Segitiga Biru 1kg
+  tepung-serbaguna-kobe.jpg    <- Tepung Serbaguna Kobe
+  tepung-bakwan-kobe.jpg    <- Tepung Bakwan Kobe
+  garam-dolpin-500gr.jpg    <- Garam Dolpin 500gr
+  santan-kara.jpg    <- Santan Kara
+  margarine-blue-band.jpg    <- Margarine Blue Band
+  margarine-forvita.jpg    <- Margarine Forvita
+
+[Bumbu, Kecap & Saos]
+  kecap-bango-refill-950gr.jpg    <- Kecap Bango Refill 950gr
+  masako-sapi-500gr.jpg    <- Masako Sapi 500gr
+  royco-ayam-220gr.jpg    <- Royco Ayam 220gr
+  totole-kaldu-jamur.jpg    <- Totole Kaldu Jamur
+  saori-teriyaki-135ml.jpg    <- Saori Teriyaki 135ml
+  saori-saus-tiram-135ml.jpg    <- Saori Saus Tiram 135ml
+  saori-saus-tiram-270ml.jpg    <- Saori Saus Tiram 270ml
+  saos-belibis-pedas-135ml.jpg    <- Saos Belibis Pedas 135ml
+  saos-belibis-ekstra-pedas-235ml.jpg    <- Saos Belibis Ekstra Pedas 235ml
+
+[Susu & Minuman]
+  susu-uht-ultra-milk-1l.jpg    <- Susu UHT Ultra Milk 1L
+  susu-kental-manis-535gr.jpg    <- Susu Kental Manis 535gr
+  cappuccino-good-day.jpg    <- Cappuccino Good Day
+  teh-sariwangi.jpg    <- Teh Sariwangi
+  teh-tong-tji.jpg    <- Teh Tong Tji
+
+[Bumbu Dapur Segar]
+  bawang-merah-1-4-kg.jpg    <- Bawang Merah (1/4 kg)
+  bawang-putih-1-4-kg.jpg    <- Bawang Putih (1/4 kg)
+  cabe-1-4-kg.jpg    <- Cabe (1/4 kg)
+
+[Kebersihan Rumah & Laundry]
+  gentle-gen-botol.jpg    <- Gentle Gen Botol
+  molto-1-5kg.jpg    <- Molto 1,5kg
+  so-klin-lantai-sereh-770ml.jpg    <- So Klin Lantai Sereh 770ml
+  wipol-720gr.jpg    <- Wipol 720gr
+
+[Perawatan Diri & Tissue]
+  sabun-lifebuoy-refill-800gr.jpg    <- Sabun Lifebuoy Refill 800gr
+  pepsodent-225gr.jpg    <- Pepsodent 225gr
+  tissue-nice.jpg    <- Tissue Nice
+  tissue-paseo.jpg    <- Tissue Paseo
+  tissue-see-u.jpg    <- Tissue See U
